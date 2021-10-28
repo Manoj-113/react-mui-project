@@ -1,7 +1,7 @@
 import { Button } from "@mui/material";
 
 const App = () => {
-  return <div>Hello World...
+  return <div>
     <Button>Material UI</Button>
   </div>
 };
