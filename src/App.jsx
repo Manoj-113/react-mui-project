@@ -1,6 +1,6 @@
 import React from "react";
-import { Person } from "@mui/icons-material";
-import { Button } from "@mui/material";
+import { Person } from "@material-ui/icons-material";
+import { Button } from "@material-ui/material";
 import { makeStyles } from "@material-ui/core/styles";
 
 const useStyles = makeStyles({
